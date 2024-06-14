@@ -5,4 +5,5 @@ provider "aws" {
 
 import {
   id = "i-07bc6bf081df643d2"
+  to = aws_instance.deepak
 }
